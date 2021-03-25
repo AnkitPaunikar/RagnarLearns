@@ -165,7 +165,7 @@ a {
   text-transform: uppercase;
   padding: 2rem 3rem;
   border: 0;
-  margin:1rem 0
+  margin: 1rem 0;
   text-align: center;
   cursor: pointer;
   white-space: nowrap;
@@ -200,18 +200,18 @@ a {
   display: inline-block;
 }
 
-.btn--outline{
+.btn--outline {
   background: white;
   color: var(--color-heading);
   border: 2px solid var(--color-heading);
 }
-.btn--outline:hover{
+.btn--outline:hover {
   background: var(--color-heading);
   color: white;
 }
 
-@media screen and (min-width:1024px){
-  .btn{
+@media screen and (min-width: 1024px) {
+  .btn {
     font-size: 1.5rem;
   }
 }
