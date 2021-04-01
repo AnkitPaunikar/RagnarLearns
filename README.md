@@ -2,4 +2,4 @@
  
  here's a preview
  
- ragnarlearns.netlify.app
+ https://ragnarlearns.netlify.app
